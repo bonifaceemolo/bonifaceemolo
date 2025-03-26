@@ -1,5 +1,5 @@
 <h1 align="center">Salut 👋, je suis EMOLO BONIFACE EMMANUEL</h1>
-<h3 align="center">Développeur passionné par la programmation en Java, avec une forte inclination pour le développement d’applications Spring. Je suis à la recherche d’opportunités de stage et de collaboration sur des projets intéressants.</h3>
+<h3 align="center">Développeur passionné par la programmation en Java, avec une forte inclination pour le développement d’applications Spring. Je suis à la recherche d’opportunités et de collaboration sur des projets intéressants.</h3>
 
 - 🌱 Je suis un Développeur junior back-end **Spring Boot**
 - 📫 Vous pouvez me joindre à l’adresse **bonifaceemolo50@gmail.com**
